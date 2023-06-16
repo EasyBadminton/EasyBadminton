@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EasyBadminton
 - 👀 I’m interested in playing badminton
-- 🌱 I’m currently learning tropo automated data analysis
+- 🌱 I’m currently learning Verilog HDL
+- **I'm a student from NJUST!**
 - email:1550758616@qq.com
 
 <!---
