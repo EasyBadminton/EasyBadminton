@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EasyBadminton
+- 👋 Hi, I’m LuoWei from USTC!
 - 👀 I’m interested in playing badminton
-- 🌱 I’m currently learning Verilog HDL
+- 🌱 I’m currently learning Verilog HDL AND digital IC design
 - **I'm a student from NJUST!**
 - email:1550758616@qq.com
 
